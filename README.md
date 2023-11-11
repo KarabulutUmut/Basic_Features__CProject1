@@ -1,1 +1,1 @@
-# Versuch_1_Teil_1
+# Test to learn basic features of C++
