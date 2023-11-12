@@ -66,8 +66,8 @@ int main()
 		//////////////////////////////////////////////////////////////////////////////////////
 
 
-		int charachter1 = sName[0];
-		int charachter2 = sName[1];
+		int charachter1 = toupper(sName[0]);
+		int charachter2 = toupper(sName[1]);
 		std::cout << "First letter of user's first name converted into number using ASCII table: " << charachter1 << "\n";
 		std::cout << "Second letter of user's first name converted into number using ASCII table: " << charachter2 << "\n";
 
